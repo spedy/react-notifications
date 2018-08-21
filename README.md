@@ -1,10 +1,6 @@
 
 ![animated](https://res.cloudinary.com/voyade/image/upload/v1534841898/misc/notifications.gif)
 
-## Prerequisites
-
-`npm install react-css-transition --save`
-
 
 ## Usage
 

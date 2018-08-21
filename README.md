@@ -1,12 +1,12 @@
 
 ![animated](https://res.cloudinary.com/voyade/image/upload/v1534841898/misc/notifications.gif)
 
-Installation:
+## Prerequisites
 
 `npm install react-css-transition --save`
 
 
-Usage:
+## Usage
 
 Move component in your highest main react component.
 

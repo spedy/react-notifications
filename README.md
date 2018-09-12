@@ -27,5 +27,5 @@ call notification anywhere inside your main component or child components
 ```
 import {showNotification} from "./Notifications"
 
-showNotification({text: "We could not find any data!", shown: true})
+showNotification({text: "We could not find any data!"})
 ```
